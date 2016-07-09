@@ -14,7 +14,7 @@ int main(int argc, std::string args)
 	prize[432]= "Jane";
 	prize[405]= "Kate";
 	prize[399]= "Njuguna";
-	prize[396]= "Hillary";
+	prize[396]= "Ombima";
 
 	cout<<"Number of students getting prizes:"<<prize.size()<<endl;
 
